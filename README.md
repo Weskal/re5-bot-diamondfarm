@@ -1,6 +1,6 @@
-# RE5 Boot Bot (Automação da fase final)
+# RE5 Diamond Marquise Farm Bot (Automação da fase final)
 
-Bot de automação para **Resident Evil 5**, focado no farm da fase final (run da diamante), com reinício automático do ciclo.
+Bot de automação para **Resident Evil 5**, focado no farm da fase final (run do diamante), com reinício automático do ciclo.
 
 ## Objetivo
 
